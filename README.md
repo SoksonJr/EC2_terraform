@@ -1,0 +1,1 @@
+"This is a terraform project which deploys an EC2 instance running an Apache2 web server in a VPC. The configuration includes the deployment of internet gateways, subnets, availability zones and some other resources in the VPC." 
